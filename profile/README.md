@@ -12,7 +12,6 @@ At ArgonEdge, we believe in the power of collaboration. Our diverse range of ser
 
 ArgonEdge is home to a dynamic ecosystem of offerings, each designed to address specific needs and drive excellence:
 
-- **ArgonEdge Host:** Reliable domain hosting and advanced web security solutions.
 - **ArgonEdge Cloud:** Scalable cloud services tailored for businesses of all sizes.
 - **ArgonEdge Tools:** A comprehensive suite of web tools for creators and innovators.
 - **ArgonEdge Electronics:** State-of-the-art devices designed for modern living.
